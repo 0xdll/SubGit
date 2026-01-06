@@ -1,0 +1,14 @@
+# Credentials
+.env
+.github_token
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# OS
+.DS_Store
+.thumbs
